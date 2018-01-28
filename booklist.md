@@ -8,11 +8,11 @@
 
 ### React
 
--[ ] :star: The Road to learn React
+- [ ]:star: The Road to learn React
 
 ### 生产力
 
--[x] 单核工作法图解 [:book:](https://book.douban.com/subject/27177909/)
+- [x] 单核工作法图解 [:book:](https://book.douban.com/subject/27177909/)
 
 
 
