@@ -8,7 +8,7 @@
 
 ### React
 
-- [ ]:star: The Road to learn React
+- [ ] :star: The Road to learn React
 
 ### 生产力
 
