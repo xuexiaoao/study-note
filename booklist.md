@@ -9,7 +9,7 @@
 
 ### React
 
-- [ ] :star: The Road to learn React [:book:](https://leanpub.com/the-road-to-learn-react-chinese)  [:triangular_flag_on_post:](https://github.com/xuexiaoao/hackernews)
+- [x] The Road to learn React [:book:](https://leanpub.com/the-road-to-learn-react-chinese)  [:triangular_flag_on_post:](https://github.com/xuexiaoao/hackernews)
 
 ### 生产力
 
