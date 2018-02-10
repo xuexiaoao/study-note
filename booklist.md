@@ -10,6 +10,7 @@
 ### React
 
 - [x] The Road to learn React [:book:](https://leanpub.com/the-road-to-learn-react-chinese)  [:triangular_flag_on_post:](https://github.com/xuexiaoao/hackernews)
+- [ ] 深入React技术栈 [:book:](https://book.douban.com/subject/26918038/)
 
 ### 生产力
 
