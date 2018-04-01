@@ -7,10 +7,16 @@
 * :notebook:个人笔记链接
 * :triangular_flag_on_post: 仓库链接
 
+### 微服务
+- [x] :star: Spring Cloud与Docker微服务架构实战 [:book:](https://book.douban.com/subject/27028228/)
+
 ### React
 
 - [x] The Road to learn React [:book:](https://leanpub.com/the-road-to-learn-react-chinese)  [:triangular_flag_on_post:](https://github.com/xuexiaoao/hackernews)
-- [ ] :star: 深入React技术栈 [:book:](https://book.douban.com/subject/26918038/)
+- [ ] 深入React技术栈 [:book:](https://book.douban.com/subject/26918038/)
+
+### Docker
+- [x] 第一本Docker书 修订版 [:book:](https://book.douban.com/subject/26780404/)
 
 ### 生产力
 
