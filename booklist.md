@@ -8,7 +8,11 @@
 * :triangular_flag_on_post: 仓库链接
 
 ### 微服务
-- [x] :star: Spring Cloud与Docker微服务架构实战 [:book:](https://book.douban.com/subject/27028228/)
+- [ ] ​ Spring Cloud与Docker微服务架构实战 [:book:](https://book.douban.com/subject/27028228/)
+
+### Artificial Intelligence
+
+- [ ] ⭐️ 人工智能简史 [📖](https://book.douban.com/subject/27193496/)
 
 ### React
 
