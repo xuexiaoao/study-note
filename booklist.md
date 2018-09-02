@@ -3,7 +3,7 @@
 计划将要阅读书籍的书单
 
 * :star:尽快阅读的
-* :book:豆瓣链接
+* :book:图书链接
 * :notebook:个人笔记链接
 * :triangular_flag_on_post: 仓库链接
 
@@ -21,6 +21,7 @@
 
 ### Docker
 - [x] 第一本Docker书 修订版 [:book:](https://book.douban.com/subject/26780404/)
+- [ ] :star: Docker — 从入门到实践 [:book:](https://yeasy.gitbooks.io/docker_practice/content/)
 
 ### 生产力
 
