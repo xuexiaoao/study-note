@@ -20,8 +20,8 @@
 - [ ] 深入React技术栈 [:book:](https://book.douban.com/subject/26918038/)
 
 ### Docker
-- [x] 第一本Docker书 修订版 [:book:](https://book.douban.com/subject/26780404/)
-- [ ] :star: Docker — 从入门到实践 [:book:](https://yeasy.gitbooks.io/docker_practice/content/)
+- [x] 第一本Docker书修订版 [:book:](https://book.douban.com/subject/26780404/)
+- [x] Docker — 从入门到实践 [:book:](https://yeasy.gitbooks.io/docker_practice/content/)
 
 ### 生产力
 
