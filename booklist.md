@@ -26,6 +26,7 @@
 ### 生产力
 
 - [x] 单核工作法图解 [:book:](https://book.douban.com/subject/27177909/)  [:notebook:](https://xuexiaoao.ml/2018/01/28/monotasking-after-reading/)
+- [ ] 代码整洁之道-程序员的职业素养 [:book:](https://book.douban.com/subject/26919457/) 
 
 
 
