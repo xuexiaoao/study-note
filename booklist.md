@@ -16,6 +16,7 @@
 ### Artificial Intelligence
 
 - [ ] ⭐️ 人工智能简史 [📖](https://book.douban.com/subject/27193496/)
+- [ ] :star:  机器学习实战 [:book:](https://book.douban.com/subject/24703171/)
 
 ### React
 
